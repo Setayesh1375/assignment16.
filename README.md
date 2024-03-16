@@ -6,4 +6,4 @@ This game is programmed by Python language using the **[arcade](https://api.arca
 
 ### ScreenShots of the Game
 
-![Screen Shot](2.png)
+![Screen Shot](IMG_20240315_102925_553.jpg)
